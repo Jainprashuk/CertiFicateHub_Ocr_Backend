@@ -28,14 +28,13 @@ const keys = [
   "Swift",
   "Kotlin",
   "PHP",
-  "R",
   "Go",
   "Scala",
   "Perl",
   "Shell Scripting",
   
   // Frameworks and Libraries
-  "React",
+  
   "Angular",
   "Vue.js",
   "Node.js",
